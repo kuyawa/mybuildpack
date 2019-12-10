@@ -1,0 +1,6 @@
+# Local development
+.DS_Store
+*.env
+*.dev
+
+# Private folders
